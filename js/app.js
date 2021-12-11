@@ -77,9 +77,8 @@ var wikiPage = {
                 <div class="image-show center">
                     <img class="image-show-img" src="${data.data.image}">
                 </div>`)
-    
-                window.wiki.image = data.data.image;
-            }
+              
+         }
             
         })
 

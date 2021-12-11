@@ -88,8 +88,12 @@ const Options = {
             AppComponents.LangList.html(list.join(" "))
 
             var language = localStorage.getItem("lang");
-            document.querySelector(`.lang-list option[value="${language}"]`).selected = true
+            
+            try {
+                document.querySelector(`.lang-list option[value="${language}"]`).selected = true
+            } catch (error) {}
         })
+
         this.setBookmarksList();
     },
 
