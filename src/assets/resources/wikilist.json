@@ -1,0 +1,1602 @@
+{
+    "English": {
+        "code": "nostalgia",
+        "name": "Nostalgia Wikipedia",
+        "title": "English"
+    },
+    "Simple English": {
+        "code": "simple",
+        "name": "Simple English Wikipedia",
+        "title": "Simple English"
+    },
+    "French": {
+        "code": "fr",
+        "name": "Wikipédia en français",
+        "title": "French"
+    },
+    "German": {
+        "code": "de",
+        "name": "Deutschsprachige Wikipedia",
+        "title": "German"
+    },
+    "Spanish": {
+        "code": "es",
+        "name": "Wikipedia en español",
+        "title": "Spanish"
+    },
+    "Japanese": {
+        "code": "ja",
+        "name": "ウィキペディア 日本語版",
+        "title": "Japanese"
+    },
+    "Russian": {
+        "code": "ru",
+        "name": "Русская Википедия",
+        "title": "Russian"
+    },
+    "Portuguese": {
+        "code": "pt",
+        "name": "Wikipédia em português",
+        "title": "Portuguese"
+    },
+    "Chinese (written vernacular Chinese, a form of Mandarin)": {
+        "code": "zh",
+        "name": "中文維基百科",
+        "title": "Chinese"
+    },
+    "Italian": {
+        "code": "it",
+        "name": "Wikipedia in italiano",
+        "title": "Italian"
+    },
+    "Persian": {
+        "code": "fa",
+        "name": "ویکی‌پدیای فارسی",
+        "title": "Persian"
+    },
+    "Arabic": {
+        "code": "ar",
+        "name": "ويكيبيديا العربية",
+        "title": "Arabic"
+    },
+    "Polish": {
+        "code": "pl",
+        "name": "Polskojęzyczna Wikipedia",
+        "title": "Polish"
+    },
+    "Dutch": {
+        "code": "nl",
+        "name": "Nederlandstalige Wikipedia",
+        "title": "Dutch"
+    },
+    "Ukrainian": {
+        "code": "uk",
+        "name": "Українська Вікіпедія",
+        "title": "Ukrainian"
+    },
+    "Indonesian": {
+        "code": "id",
+        "name": "Wikipedia bahasa Indonesia",
+        "title": "Indonesian"
+    },
+    "Hebrew": {
+        "code": "he",
+        "name": "ויקיפדיה העברית",
+        "title": "Hebrew"
+    },
+    "Vietnamese": {
+        "code": "vi",
+        "name": "Wikipedia tiếng Việt",
+        "title": "Vietnamese"
+    },
+    "Turkish": {
+        "code": "tr",
+        "name": "Türkçe Vikipedi",
+        "title": "Turkish"
+    },
+    "Swedish": {
+        "code": "sv",
+        "name": "Svenskspråkiga Wikipedia",
+        "title": "Swedish"
+    },
+    "Korean": {
+        "code": "ko",
+        "name": "한국어 위키백과",
+        "title": "Korean"
+    },
+    "Czech": {
+        "code": "cs",
+        "name": "Česká Wikipedie",
+        "title": "Czech"
+    },
+    "Finnish": {
+        "code": "fi",
+        "name": "Suomenkielinen Wikipedia",
+        "title": "Finnish"
+    },
+    "Hungarian": {
+        "code": "hu",
+        "name": "Magyar Wikipédia",
+        "title": "Hungarian"
+    },
+    "Catalan": {
+        "code": "ca",
+        "name": "Viquipèdia en català",
+        "title": "Catalan"
+    },
+    "Hindi": {
+        "code": "hi",
+        "name": "हिन्दी विकिपीडिया",
+        "title": "Hindi"
+    },
+    "Norwegian (Bokmål)": {
+        "code": "no",
+        "name": "Bokmål Wikipedia",
+        "title": "Norwegian (Bokmål)"
+    },
+    "Bengali": {
+        "code": "bn",
+        "name": "বাংলা উইকিপিডিয়া",
+        "title": "Bengali"
+    },
+    "Thai": {
+        "code": "th",
+        "name": "วิกิพีเดียภาษาไทย",
+        "title": "Thai"
+    },
+    "Greek": {
+        "code": "el",
+        "name": "Ελληνική Βικιπαίδεια",
+        "title": "Greek"
+    },
+    "Romanian": {
+        "code": "ro",
+        "name": "Wikipedia în română",
+        "title": "Romanian"
+    },
+    "Danish": {
+        "code": "da",
+        "name": "Dansk Wikipedia",
+        "title": "Danish"
+    },
+    "Azerbaijani": {
+        "code": "az",
+        "name": "Azərbaycanca Vikipediya",
+        "title": "Azerbaijani"
+    },
+    "Serbian": {
+        "code": "sr",
+        "name": "Википедија на српском језику",
+        "title": "Serbian"
+    },
+    "Bulgarian": {
+        "code": "bg",
+        "name": "Българоезична Уикипедия",
+        "title": "Bulgarian"
+    },
+    "Malay": {
+        "code": "ms",
+        "name": "Wikipedia Bahasa Melayu",
+        "title": "Malay"
+    },
+    "Estonian": {
+        "code": "et",
+        "name": "Eestikeelne Vikipeedia",
+        "title": "Estonian"
+    },
+    "Croatian": {
+        "code": "hr",
+        "name": "Hrvatska Wikipedija",
+        "title": "Croatian"
+    },
+    "Armenian": {
+        "code": "hy",
+        "name": "Հայերեն Վիքիպեդիա",
+        "title": "Armenian"
+    },
+    "Slovak": {
+        "code": "sk",
+        "name": "Slovenská Wikipedia",
+        "title": "Slovak"
+    },
+    "Malayalam": {
+        "code": "ml",
+        "name": "Malayalam Wikipedia",
+        "title": "Malayalam"
+    },
+    "Basque": {
+        "code": "eu",
+        "name": "Euskarazko Wikipedia",
+        "title": "Basque"
+    },
+    "Cantonese": {
+        "code": "zh-yue",
+        "name": "Cantonese Wikipedia",
+        "title": "Cantonese"
+    },
+    "Slovene": {
+        "code": "sl",
+        "name": "Slovenska Wikipedija",
+        "title": "Slovene"
+    },
+    "Esperanto": {
+        "code": "eo",
+        "name": "Vikipedio en Esperanto",
+        "title": "Esperanto"
+    },
+    "Lithuanian": {
+        "code": "lt",
+        "name": "Lietuviškoji Vikipedija",
+        "title": "Lithuanian"
+    },
+    "Tamil": {
+        "code": "ta",
+        "name": "தமிழ் விக்கிபீடியா",
+        "title": "Tamil"
+    },
+    "Albanian": {
+        "code": "sq",
+        "name": "Wikipedia shqip",
+        "title": "Albanian"
+    },
+    "Latvian": {
+        "code": "lv",
+        "name": "Vikipēdija latviešu valodā",
+        "title": "Latvian"
+    },
+    "Belarusian": {
+        "code": "be",
+        "name": "Беларуская Вікіпедыя",
+        "title": "Belarusian"
+    },
+    "Galician": {
+        "code": "gl",
+        "name": "Galipedia",
+        "title": "Galician"
+    },
+    "Georgian": {
+        "code": "ka",
+        "name": "ქართული ვიკიპედია",
+        "title": "Georgian"
+    },
+    "Urdu": {
+        "code": "ur",
+        "name": "اردو ویکیپیڈیا",
+        "title": "Urdu"
+    },
+    "Kazakh": {
+        "code": "kk",
+        "name": "Қазақша Уикипедия",
+        "title": "Kazakh"
+    },
+    "Macedonian": {
+        "code": "mk",
+        "name": "Македонска Википедија",
+        "title": "Macedonian"
+    },
+    "Uzbek": {
+        "code": "uz",
+        "name": "Oʻzbekcha Vikipediya",
+        "title": "Uzbek"
+    },
+    "Telugu": {
+        "code": "te",
+        "name": "తెలుగు వికీపీడియా",
+        "title": "Telugu"
+    },
+    "Marathi": {
+        "code": "mr",
+        "name": "Marathi Wikipedia",
+        "title": "Marathi"
+    },
+    "Serbo-Croatian": {
+        "code": "sh",
+        "name": "Srpskohrvatska Wikipedija",
+        "title": "Serbo-Croatian"
+    },
+    "Egyptian Arabic": {
+        "code": "arz",
+        "name": "ويكيپيديا مصرى",
+        "title": "Egyptian Arabic"
+    },
+    "Afrikaans": {
+        "code": "af",
+        "name": "Afrikaanse Wikipedia",
+        "title": "Afrikaans"
+    },
+    "Bosnian": {
+        "code": "bs",
+        "name": "Wikipedia na bosanskom jeziku",
+        "title": "Bosnian"
+    },
+    "Cebuano": {
+        "code": "ceb",
+        "name": "Wikipedya sa Sinugboanon",
+        "title": "Cebuano"
+    },
+    "Kannada": {
+        "code": "kn",
+        "name": "ಕನ್ನಡ ವಿಕಿಪೀಡಿಯ",
+        "title": "Kannada"
+    },
+    "Hausa": {
+        "code": "ha",
+        "name": "Hausa Wikipedia",
+        "title": "Hausa"
+    },
+    "Norwegian (Nynorsk)": {
+        "code": "nn",
+        "name": "Nynorsk Wikipedia",
+        "title": "Norwegian (Nynorsk)"
+    },
+    "Icelandic": {
+        "code": "is",
+        "name": "Icelandic Wikipedia",
+        "title": "Icelandic"
+    },
+    "Latin": {
+        "code": "la",
+        "name": "Vicipaedia Latina",
+        "title": "Latin"
+    },
+    "Burmese": {
+        "code": "my",
+        "name": "Burmese Wikipedia",
+        "title": "Burmese"
+    },
+    "Swahili": {
+        "code": "sw",
+        "name": "Wikipedia ya Kiswahili",
+        "title": "Swahili"
+    },
+    "Asturian": {
+        "code": "ast",
+        "name": "Asturian Wikipedia",
+        "title": "Asturian"
+    },
+    "Tagalog": {
+        "code": "tl",
+        "name": "Tagalog Wikipedia",
+        "title": "Tagalog"
+    },
+    "Belarusian (Taraškievica)": {
+        "code": "be-tarask",
+        "name": "Беларуская Вікіпэдыя",
+        "title": "Belarusian (Taraškievica)"
+    },
+    "Javanese": {
+        "code": "jv",
+        "name": "Javanese Wikipedia",
+        "title": "Javanese"
+    },
+    "Bashkir": {
+        "code": "ba",
+        "name": "Bashkir Wikipedia",
+        "title": "Bashkir"
+    },
+    "Assamese": {
+        "code": "as",
+        "name": "অসমীয়া ৱিকিপিডিয়া",
+        "title": "Assamese"
+    },
+    "Kurdish (Sorani)": {
+        "code": "ckb",
+        "name": "ویکیپیدیای کوردی",
+        "title": "Kurdish (Sorani)"
+    },
+    "Iran Azerbaijani": {
+        "code": "azb",
+        "name": "تورکجه ویکی‌پدیا",
+        "title": "Iran Azerbaijani"
+    },
+    "Sinhalese": {
+        "code": "si",
+        "name": "Sinhalese Wikipedia",
+        "title": "Sinhalese"
+    },
+    "Welsh": {
+        "code": "cy",
+        "name": "Welsh Wikipedia",
+        "title": "Welsh"
+    },
+    "Scots": {
+        "code": "sco",
+        "name": "Scots Wikipedia",
+        "title": "Scots"
+    },
+    "Nepali": {
+        "code": "ne",
+        "name": "Nepali Wikipedia",
+        "title": "Nepali"
+    },
+    "Breton": {
+        "code": "br",
+        "name": "Breton Wikipedia",
+        "title": "Breton"
+    },
+    "Tatar": {
+        "code": "tt",
+        "name": "Tatar Wikipedia",
+        "title": "Tatar"
+    },
+    "Alemannic": {
+        "code": "als",
+        "name": "Alemannic Wikipedia",
+        "title": "Alemannic"
+    },
+    "Irish": {
+        "code": "ga",
+        "name": "Vicipéid na Gaeilge",
+        "title": "Irish"
+    },
+    "Southern Min /Min Nan": {
+        "code": "zh-min-nan",
+        "name": "Min Nan Wikipedia",
+        "title": "Southern Min /Min Nan"
+    },
+    "Occitan": {
+        "code": "oc",
+        "name": "Occitan Wikipedia",
+        "title": "Occitan"
+    },
+    "Mongolian": {
+        "code": "mn",
+        "name": "Монгол Википедиа",
+        "title": "Mongolian"
+    },
+    "Somali": {
+        "code": "so",
+        "name": "Somali Wikipedia",
+        "title": "Somali"
+    },
+    "Gujarati": {
+        "code": "gu",
+        "name": "Gujarati Wikipedia",
+        "title": "Gujarati"
+    },
+    "Eastern Punjabi": {
+        "code": "pa",
+        "name": "Eastern Punjabi Wikipedia",
+        "title": "Eastern Punjabi"
+    },
+    "Kyrgyz": {
+        "code": "ky",
+        "name": "Kyrgyz Wikipedia",
+        "title": "Kyrgyz"
+    },
+    "Waray": {
+        "code": "war",
+        "name": "Waray Wikipedia",
+        "title": "Waray"
+    },
+    "Aragonese": {
+        "code": "an",
+        "name": "Aragonese Wikipedia",
+        "title": "Aragonese"
+    },
+    "Kurdish (Kurmanji)": {
+        "code": "ku",
+        "name": "Wîkîpediya kurdî",
+        "title": "Kurdish (Kurmanji)"
+    },
+    "Dagbani": {
+        "code": "dag",
+        "name": "Dagbani Wikipedia",
+        "title": "Dagbani"
+    },
+    "Luxembourgish": {
+        "code": "lb",
+        "name": "Luxembourgish Wikipedia",
+        "title": "Luxembourgish"
+    },
+    "Tajik": {
+        "code": "tg",
+        "name": "Tajik Wikipedia",
+        "title": "Tajik"
+    },
+    "Bavarian": {
+        "code": "bar",
+        "name": "Bavarian Wikipedia",
+        "title": "Bavarian"
+    },
+    "Khmer": {
+        "code": "km",
+        "name": "Khmer Wikipedia",
+        "title": "Khmer"
+    },
+    "Classical Chinese": {
+        "code": "zh-classical",
+        "name": "Classical Chinese Wikipedia",
+        "title": "Classical Chinese"
+    },
+    "Yoruba": {
+        "code": "yo",
+        "name": "Yoruba Wikipedia",
+        "title": "Yoruba"
+    },
+    "Sundanese": {
+        "code": "su",
+        "name": "Sundanese Wikipedia",
+        "title": "Sundanese"
+    },
+    "Minangkabau": {
+        "code": "min",
+        "name": "Minangkabau Wikipedia",
+        "title": "Minangkabau"
+    },
+    "Pashto": {
+        "code": "ps",
+        "name": "Pashto Wikipedia",
+        "title": "Pashto"
+    },
+    "Central Bikol": {
+        "code": "bcl",
+        "name": "Central Bicolano Wikipedia",
+        "title": "Central Bikol"
+    },
+    "Western Punjabi": {
+        "code": "pnb",
+        "name": "Western Punjabi Wikipedia",
+        "title": "Western Punjabi"
+    },
+    "Low German": {
+        "code": "nds",
+        "name": "Low Saxon Wikipedia",
+        "title": "Low German"
+    },
+    "Turkmen": {
+        "code": "tk",
+        "name": "Turkmen Wikipedia",
+        "title": "Turkmen"
+    },
+    "Malagasy": {
+        "code": "mg",
+        "name": "Malagasy Wikipedia",
+        "title": "Malagasy"
+    },
+    "West Frisian": {
+        "code": "fy",
+        "name": "West Frisian Wikipedia",
+        "title": "West Frisian"
+    },
+    "Odia": {
+        "code": "or",
+        "name": "Odia Wikipedia",
+        "title": "Odia"
+    },
+    "Old English /Anglo-Saxon": {
+        "code": "ang",
+        "name": "Anglo-Saxon Wikipedia",
+        "title": "Old English /Anglo-Saxon"
+    },
+    "Fiji Hindi": {
+        "code": "hif",
+        "name": "Fiji Hindi Wikipedia",
+        "title": "Fiji Hindi"
+    },
+    "Ido": {
+        "code": "io",
+        "name": "Ido Wikipedia",
+        "title": "Ido"
+    },
+    "Chuvash": {
+        "code": "cv",
+        "name": "Chuvash Wikipedia",
+        "title": "Chuvash"
+    },
+    "Chechen": {
+        "code": "ce",
+        "name": "Chechen Wikipedia",
+        "title": "Chechen"
+    },
+    "Haitian Creole": {
+        "code": "ht",
+        "name": "Haitian Creole Wikipedia",
+        "title": "Haitian Creole"
+    },
+    "Lombard": {
+        "code": "lmo",
+        "name": "Lombard Wikipedia",
+        "title": "Lombard"
+    },
+    "Wu": {
+        "code": "wuu",
+        "name": "Wu Wikipedia",
+        "title": "Wu"
+    },
+    "Amharic": {
+        "code": "am",
+        "name": "Amharic Wikipedia",
+        "title": "Amharic"
+    },
+    "Igbo": {
+        "code": "ig",
+        "name": "Igbo Wikipedia",
+        "title": "Igbo"
+    },
+    "Yiddish": {
+        "code": "yi",
+        "name": "Yiddish Wikipedia",
+        "title": "Yiddish"
+    },
+    "Quechua": {
+        "code": "qu",
+        "name": "Quechua Wikipedia",
+        "title": "Quechua"
+    },
+    "Bihari (Bhojpuri)": {
+        "code": "bh",
+        "name": "Bhojpuri Wikipedia",
+        "title": "Bihari (Bhojpuri)"
+    },
+    "Balinese": {
+        "code": "ban",
+        "name": "Balinese Wikipedia",
+        "title": "Balinese"
+    },
+    "Mazanderani": {
+        "code": "mzn",
+        "name": "Mazandarani Wikipedia",
+        "title": "Mazanderani"
+    },
+    "Moroccan Arabic": {
+        "code": "ary",
+        "name": "Moroccan Arabic Wikipedia",
+        "title": "Moroccan Arabic"
+    },
+    "Yakut/Sakha": {
+        "code": "sah",
+        "name": "Sakha Wikipedia",
+        "title": "Yakut/Sakha"
+    },
+    "Interlingua": {
+        "code": "ia",
+        "name": "Interlingua Wikipedia",
+        "title": "Interlingua"
+    },
+    "Venetian": {
+        "code": "vec",
+        "name": "Venetian Wikipedia",
+        "title": "Venetian"
+    },
+    "Acehnese": {
+        "code": "ace",
+        "name": "Acehnese Wikipedia",
+        "title": "Acehnese"
+    },
+    "Lao": {
+        "code": "lo",
+        "name": "Lao Wikipedia",
+        "title": "Lao"
+    },
+    "Sicilian": {
+        "code": "scn",
+        "name": "Sicilian Wikipedia",
+        "title": "Sicilian"
+    },
+    "Faroese": {
+        "code": "fo",
+        "name": "Faroese Wikipedia",
+        "title": "Faroese"
+    },
+    "Sanskrit": {
+        "code": "sa",
+        "name": "संस्कृतविकिपीडिया",
+        "title": "Sanskrit"
+    },
+    "Cornish": {
+        "code": "kw",
+        "name": "Cornish Wikipedia",
+        "title": "Cornish"
+    },
+    "Zazaki": {
+        "code": "diq",
+        "name": "Zazaki Wikipedia",
+        "title": "Zazaki"
+    },
+    "Guarani": {
+        "code": "gn",
+        "name": "Guarani Wikipedia",
+        "title": "Guarani"
+    },
+    "Sindhi": {
+        "code": "sd",
+        "name": "سنڌي وڪيپيڊيا",
+        "title": "Sindhi"
+    },
+    "Westerm Armenian": {
+        "code": "hyw",
+        "name": "Western Armenian Wikipedia",
+        "title": "Westerm Armenian"
+    },
+    "Emilian- Romagnol": {
+        "code": "eml",
+        "name": "Emilian-Romagnol Wikipedia",
+        "title": "Emilian- Romagnol"
+    },
+    "Interlingue": {
+        "code": "ie",
+        "name": "Interlingue Wikipedia",
+        "title": "Interlingue"
+    },
+    "Kinyarwanda": {
+        "code": "rw",
+        "name": "Kinyarwanda Wikipedia",
+        "title": "Kinyarwanda"
+    },
+    "Maithili": {
+        "code": "mai",
+        "name": "Maithili Wikipedia",
+        "title": "Maithili"
+    },
+    "Silesian": {
+        "code": "szl",
+        "name": "Silesian Wikipedia",
+        "title": "Silesian"
+    },
+    "Volapük": {
+        "code": "vo",
+        "name": "Vükiped Volapükik",
+        "title": "Volapük"
+    },
+    "Aymara": {
+        "code": "ay",
+        "name": "Aymara Wikipedia",
+        "title": "Aymara"
+    },
+    "Santali": {
+        "code": "sat",
+        "name": "Santali Wikipedia",
+        "title": "Santali"
+    },
+    "Corsican": {
+        "code": "co",
+        "name": "Corsican Wikipedia",
+        "title": "Corsican"
+    },
+    "Sardinian": {
+        "code": "sc",
+        "name": "Sardinian Wikipedia",
+        "title": "Sardinian"
+    },
+    "Mingrelian": {
+        "code": "xmf",
+        "name": "Mingrelian Wikipedia",
+        "title": "Mingrelian"
+    },
+    "Newar/ Nepal Bhasa": {
+        "code": "new",
+        "name": "Newar Wikipedia",
+        "title": "Newar/ Nepal Bhasa"
+    },
+    "Zulu": {
+        "code": "zu",
+        "name": "Zulu Wikipedia",
+        "title": "Zulu"
+    },
+    "Upper Sorbian": {
+        "code": "hsb",
+        "name": "Hornjoserbska wikipedija",
+        "title": "Upper Sorbian"
+    },
+    "Ligurian": {
+        "code": "lij",
+        "name": "Ligurian Wikipedia",
+        "title": "Ligurian"
+    },
+    "Dutch Low Saxon": {
+        "code": "nds-nl",
+        "name": "Dutch Low Saxon Wikipedia",
+        "title": "Dutch Low Saxon"
+    },
+    "Ossetian": {
+        "code": "os",
+        "name": "Ossetian Wikipedia",
+        "title": "Ossetian"
+    },
+    "Scottish Gaelic": {
+        "code": "gd",
+        "name": "Scottish Gaelic Wikipedia",
+        "title": "Scottish Gaelic"
+    },
+    "Akan": {
+        "code": "ak",
+        "name": "Akan Wikipedia",
+        "title": "Akan"
+    },
+    "Hakka": {
+        "code": "hak",
+        "name": "Hakka Wikipedia",
+        "title": "Hakka"
+    },
+    "West Flemish": {
+        "code": "vls",
+        "name": "West Flemish Wikipedia",
+        "title": "West Flemish"
+    },
+    "Bislama": {
+        "code": "bi",
+        "name": "Bislama Wikipedia",
+        "title": "Bislama"
+    },
+    "Franco- Provençal /Arpitan": {
+        "code": "frp",
+        "name": "Franco-Provençal Wikipedia",
+        "title": "Franco- Provençal /Arpitan"
+    },
+    "Maltese": {
+        "code": "mt",
+        "name": "Maltese Wikipedia",
+        "title": "Maltese"
+    },
+    "Neapolitan": {
+        "code": "nap",
+        "name": "Neapolitan Wikipedia",
+        "title": "Neapolitan"
+    },
+    "Shona": {
+        "code": "sn",
+        "name": "Shona Wikipedia",
+        "title": "Shona"
+    },
+    "Veps": {
+        "code": "vep",
+        "name": "Veps Wikipedia",
+        "title": "Veps"
+    },
+    "Crimean Tatar": {
+        "code": "crh",
+        "name": "Crimean Tatar Wikipedia",
+        "title": "Crimean Tatar"
+    },
+    "Samogitian": {
+        "code": "bat-smg",
+        "name": "Samogitian Wikipedia",
+        "title": "Samogitian"
+    },
+    "Limburgish": {
+        "code": "li",
+        "name": "Limburgish Wikipedia",
+        "title": "Limburgish"
+    },
+    "Piedmontese": {
+        "code": "pms",
+        "name": "Piedmontese Wikipedia",
+        "title": "Piedmontese"
+    },
+    "Ilokano": {
+        "code": "ilo",
+        "name": "Ilokano Wikipedia",
+        "title": "Ilokano"
+    },
+    "Kashmiri": {
+        "code": "ks",
+        "name": "Kashmiri Wikipedia",
+        "title": "Kashmiri"
+    },
+    "Eastern Min /Min Dong": {
+        "code": "cdo",
+        "name": "Min Dong Wikipedia",
+        "title": "Eastern Min /Min Dong"
+    },
+    "Nahuatl": {
+        "code": "nah",
+        "name": "Nāhuatl Wikipedia",
+        "title": "Nahuatl"
+    },
+    "Tibetan": {
+        "code": "bo",
+        "name": "Tibetan Wikipedia",
+        "title": "Tibetan"
+    },
+    "Walloon": {
+        "code": "wa",
+        "name": "Walloon Wikipedia",
+        "title": "Walloon"
+    },
+    "Kapampangan": {
+        "code": "pam",
+        "name": "Kapampangan Wikipedia",
+        "title": "Kapampangan"
+    },
+    "Erzya": {
+        "code": "myv",
+        "name": "Erzya Wikipedia",
+        "title": "Erzya"
+    },
+    "Māori": {
+        "code": "mi",
+        "name": "Māori Wikipedia",
+        "title": "Māori"
+    },
+    "North Frisian": {
+        "code": "frr",
+        "name": "North Frisian Wikipedia",
+        "title": "North Frisian"
+    },
+    "Bishnupriya Manipuri": {
+        "code": "bpy",
+        "name": "বিষ্ণুপ্রিয়া মনিপুরী উইকিপিডিয়া",
+        "title": "Bishnupriya Manipuri"
+    },
+    "Judaeo-Spanish /Ladino": {
+        "code": "lad",
+        "name": "Ladino Wikipedia",
+        "title": "Judaeo-Spanish /Ladino"
+    },
+    "Northern Sami": {
+        "code": "se",
+        "name": "Northern Sami Wikipedia",
+        "title": "Northern Sami"
+    },
+    "Friulian": {
+        "code": "fur",
+        "name": "Friulian Wikipedia",
+        "title": "Friulian"
+    },
+    "Gagauz": {
+        "code": "gag",
+        "name": "Gagauz Wikipedia",
+        "title": "Gagauz"
+    },
+    "Inari Sami": {
+        "code": "smn",
+        "name": "Inari Sami Wikipedia",
+        "title": "Inari Sami"
+    },
+    "Picard": {
+        "code": "pcd",
+        "name": "Picard Wikipedia",
+        "title": "Picard"
+    },
+    "Udmurt": {
+        "code": "udm",
+        "name": "Udmurt Wikipedia",
+        "title": "Udmurt"
+    },
+    "Buginese": {
+        "code": "bug",
+        "name": "Buginese Wikipedia",
+        "title": "Buginese"
+    },
+    "Kotava": {
+        "code": "avk",
+        "name": "Kotava Wikipedia",
+        "title": "Kotava"
+    },
+    "Cherokee": {
+        "code": "chr",
+        "name": "Cherokee Wikipedia",
+        "title": "Cherokee"
+    },
+    "Gan Chinese": {
+        "code": "gan",
+        "name": "Gan Chinese Wikipedia",
+        "title": "Gan Chinese"
+    },
+    "Komi": {
+        "code": "kv",
+        "name": "Komi Wikipedia",
+        "title": "Komi"
+    },
+    "Meadow Mari": {
+        "code": "mhr",
+        "name": "Meadow Mari Wikipedia",
+        "title": "Meadow Mari"
+    },
+    "Twi": {
+        "code": "tw",
+        "name": "Twi Wikipedia",
+        "title": "Twi"
+    },
+    "Võro": {
+        "code": "fiu-vro",
+        "name": "Voro Wikipedia",
+        "title": "Võro"
+    },
+    "Kabyle": {
+        "code": "kab",
+        "name": "Kabyle Wikipedia",
+        "title": "Kabyle"
+    },
+    "Mon": {
+        "code": "mnw",
+        "name": "ဝဳကဳပဳဒဳယာမန်",
+        "title": "Mon"
+    },
+    "Tulu": {
+        "code": "tcy",
+        "name": "Tulu Wikipedia",
+        "title": "Tulu"
+    },
+    "Uyghur": {
+        "code": "ug",
+        "name": "Uyghur Wikipedia",
+        "title": "Uyghur"
+    },
+    "Abkhaz": {
+        "code": "ab",
+        "name": "Abkhazian Wikipedia",
+        "title": "Abkhaz"
+    },
+    "Lingala": {
+        "code": "ln",
+        "name": "Lingala Wikipedia",
+        "title": "Lingala"
+    },
+    "Lingua Franca Nova": {
+        "code": "lfn",
+        "name": "Lingua Franca Nova Wikipedia",
+        "title": "Lingua Franca Nova"
+    },
+    "Papiamento": {
+        "code": "pap",
+        "name": "Papiamentu Wikipedia",
+        "title": "Papiamento"
+    },
+    "Doteli": {
+        "code": "dty",
+        "name": "Doteli Wikipedia",
+        "title": "Doteli"
+    },
+    "Dzongkha": {
+        "code": "dz",
+        "name": "Dzongkha Wikipedia",
+        "title": "Dzongkha"
+    },
+    "Hawaiian": {
+        "code": "haw",
+        "name": "Hawaiian Wikipedia",
+        "title": "Hawaiian"
+    },
+    "Manx": {
+        "code": "gv",
+        "name": "Manx Wikipedia",
+        "title": "Manx"
+    },
+    "Rusyn": {
+        "code": "rue",
+        "name": "Rusyn Wikipedia",
+        "title": "Rusyn"
+    },
+    "Banjar": {
+        "code": "bjn",
+        "name": "Banjar Wikipedia",
+        "title": "Banjar"
+    },
+    "Banyumasan": {
+        "code": "map-bms",
+        "name": "Banyumasan Wikipedia",
+        "title": "Banyumasan"
+    },
+    "Old Church Slavonic": {
+        "code": "cu",
+        "name": "Old Church Slavonic Wikipedia",
+        "title": "Old Church Slavonic"
+    },
+    "Sakizaya": {
+        "code": "szy",
+        "name": "Sakizaya Wikipedia",
+        "title": "Sakizaya"
+    },
+    "Buryat": {
+        "code": "bxr",
+        "name": "Buryat Wikipedia",
+        "title": "Buryat"
+    },
+    "Chewa": {
+        "code": "ny",
+        "name": "Chichewa Wikipedia",
+        "title": "Chewa"
+    },
+    "Dhivehi": {
+        "code": "dv",
+        "name": "Divehi Wikipedia",
+        "title": "Dhivehi"
+    },
+    "Gorontalo": {
+        "code": "gor",
+        "name": "Gorontalo Wikipedia",
+        "title": "Gorontalo"
+    },
+    "Greenlandic": {
+        "code": "kl",
+        "name": "Greenlandic Wikipedia",
+        "title": "Greenlandic"
+    },
+    "Kirundi": {
+        "code": "rn",
+        "name": "Kirundi Wikipedia",
+        "title": "Kirundi"
+    },
+    "Ladin": {
+        "code": "lld",
+        "name": "Ladin Wikipedia",
+        "title": "Ladin"
+    },
+    "Zamboanga Chavacano": {
+        "code": "cbk-zam",
+        "name": "Zamboanga Chavacano Wikipedia",
+        "title": "Zamboanga Chavacano"
+    },
+    "Extremaduran": {
+        "code": "ext",
+        "name": "Extremaduran Wikipedia",
+        "title": "Extremaduran"
+    },
+    "Ripuarian": {
+        "code": "ksh",
+        "name": "Ripuarian Wikipedia",
+        "title": "Ripuarian"
+    },
+    "Adyghe": {
+        "code": "ady",
+        "name": "Adyghe Wikipedia",
+        "title": "Adyghe"
+    },
+    "Avar": {
+        "code": "av",
+        "name": "Avar Wikipedia",
+        "title": "Avar"
+    },
+    "Chamorro": {
+        "code": "ch",
+        "name": "Chamorro Wikipedia",
+        "title": "Chamorro"
+    },
+    "Cheyenne": {
+        "code": "chy",
+        "name": "Cheyenne Wikipedia",
+        "title": "Cheyenne"
+    },
+    "Cree": {
+        "code": "cr",
+        "name": "Cree Wikipedia",
+        "title": "Cree"
+    },
+    "Lower Sorbian": {
+        "code": "dsb",
+        "name": "Dolnoserbska wikipedija",
+        "title": "Lower Sorbian"
+    },
+    "Kabiye": {
+        "code": "kbp",
+        "name": "Kabiye Wikipedia",
+        "title": "Kabiye"
+    },
+    "Kashubian": {
+        "code": "csb",
+        "name": "Kashubian Wikipedia",
+        "title": "Kashubian"
+    },
+    "Kongo": {
+        "code": "kg",
+        "name": "Kongo Wikipedia",
+        "title": "Kongo"
+    },
+    "Lojban": {
+        "code": "jbo",
+        "name": "Lojban Wikipedia",
+        "title": "Lojban"
+    },
+    "Mirandese": {
+        "code": "mwl",
+        "name": "Mirandese Wikipedia",
+        "title": "Mirandese"
+    },
+    "Pennsylvania German": {
+        "code": "pdc",
+        "name": "Pennsylvania German Wikipedia",
+        "title": "Pennsylvania German"
+    },
+    "Romansh": {
+        "code": "rm",
+        "name": "Romansh Wikipedia",
+        "title": "Romansh"
+    },
+    "Shilha": {
+        "code": "shi",
+        "name": "Shilha Wikipedia",
+        "title": "Shilha"
+    },
+    "Aromanian": {
+        "code": "roa-rup",
+        "name": "Wikipedia pi armãneashti",
+        "title": "Aromanian"
+    },
+    "Inuktitut": {
+        "code": "iu",
+        "name": "Inuktitut Wikipedia",
+        "title": "Inuktitut"
+    },
+    "Madurese": {
+        "code": "mad",
+        "name": "Madurese Wikipedia",
+        "title": "Madurese"
+    },
+    "Novial": {
+        "code": "nov",
+        "name": "Novial Wikipedia",
+        "title": "Novial"
+    },
+    "Aramaic": {
+        "code": "arc",
+        "name": "Syriac Wikipedia",
+        "title": "Aramaic"
+    },
+    "Tok Pisin": {
+        "code": "tpi",
+        "name": "Tok Pisin Wikipedia",
+        "title": "Tok Pisin"
+    },
+    "Tsonga": {
+        "code": "ts",
+        "name": "Tsonga Wikipedia",
+        "title": "Tsonga"
+    },
+    "Tuvan": {
+        "code": "tyv",
+        "name": "Tuvinian Wikipedia",
+        "title": "Tuvan"
+    },
+    "Zeelandic": {
+        "code": "zea",
+        "name": "Zealandic Wikipedia",
+        "title": "Zeelandic"
+    },
+    "Shan": {
+        "code": "shn",
+        "name": "ဝီႇၶီႇၽီးတီးယႃးတႆး",
+        "title": "Shan"
+    },
+    "Gilaki": {
+        "code": "glk",
+        "name": "Gilaki Wikipedia",
+        "title": "Gilaki"
+    },
+    "Hill Mari": {
+        "code": "mrj",
+        "name": "Hill Mari Wikipedia",
+        "title": "Hill Mari"
+    },
+    "Nauruan": {
+        "code": "na",
+        "name": "Nauruan Wikipedia",
+        "title": "Nauruan"
+    },
+    "Navajo": {
+        "code": "nv",
+        "name": "Navajo Wikipedia",
+        "title": "Navajo"
+    },
+    "Norman": {
+        "code": "nrm",
+        "name": "Norman Wikipedia",
+        "title": "Norman"
+    },
+    "Samoan": {
+        "code": "sm",
+        "name": "Samoan Wikipedia",
+        "title": "Samoan"
+    },
+    "Tetum": {
+        "code": "tet",
+        "name": "Tetum Wikipedia",
+        "title": "Tetum"
+    },
+    "Bambara": {
+        "code": "bm",
+        "name": "Bambara Wikipedia",
+        "title": "Bambara"
+    },
+    "Pangasinan": {
+        "code": "pag",
+        "name": "Pangasinan Wikipedia",
+        "title": "Pangasinan"
+    },
+    "Wolof": {
+        "code": "wo",
+        "name": "Wolof Wikipedia",
+        "title": "Wolof"
+    },
+    "Awadhi": {
+        "code": "awa",
+        "name": "Awadhi Wikipedia",
+        "title": "Awadhi"
+    },
+    "Fula": {
+        "code": "ff",
+        "name": "Fula Wikipedia",
+        "title": "Fula"
+    },
+    "Gothic": {
+        "code": "got",
+        "name": "Gothic Wikipedia",
+        "title": "Gothic"
+    },
+    "Ingush": {
+        "code": "inh",
+        "name": "Ingush Wikipedia",
+        "title": "Ingush"
+    },
+    "Karachay- Balkar": {
+        "code": "krc",
+        "name": "Karachay-Balkar Wikipedia",
+        "title": "Karachay- Balkar"
+    },
+    "Karakalpak": {
+        "code": "kaa",
+        "name": "Karakalpak Wikipedia",
+        "title": "Karakalpak"
+    },
+    "Lak": {
+        "code": "lbe",
+        "name": "Lak Wikipedia",
+        "title": "Lak"
+    },
+    "Lezgian": {
+        "code": "lez",
+        "name": "Lezgi Wikipedia",
+        "title": "Lezgian"
+    },
+    "Norfolk": {
+        "code": "pih",
+        "name": "Norfolk Wikipedia",
+        "title": "Norfolk"
+    },
+    "Xhosa": {
+        "code": "xh",
+        "name": "Xhosa Wikipedia",
+        "title": "Xhosa"
+    },
+    "Fijian": {
+        "code": "fj",
+        "name": "Fijian Wikipedia",
+        "title": "Fijian"
+    },
+    "Jamaican Patois": {
+        "code": "jam",
+        "name": "Jamaican Wikipedia",
+        "title": "Jamaican Patois"
+    },
+    "Kabardian": {
+        "code": "kbd",
+        "name": "Kabardian Wikipedia",
+        "title": "Kabardian"
+    },
+    "Kalmyk": {
+        "code": "xal",
+        "name": "Kalmyk Wikipedia",
+        "title": "Kalmyk"
+    },
+    "Oromo": {
+        "code": "om",
+        "name": "Oromo Wikipedia",
+        "title": "Oromo"
+    },
+    "Swazi": {
+        "code": "ss",
+        "name": "Swati Wikipedia",
+        "title": "Swazi"
+    },
+    "Tswana": {
+        "code": "tn",
+        "name": "Tswana Wikipedia",
+        "title": "Tswana"
+    },
+    "Vlax Romani": {
+        "code": "rmy",
+        "name": "Vlax Romani Wikipedia",
+        "title": "Vlax Romani"
+    },
+    "Konkani": {
+        "code": "gom",
+        "name": "Konkani Wikipedia",
+        "title": "Konkani"
+    },
+    "Dinka": {
+        "code": "din",
+        "name": "Dinka Wikipedia",
+        "title": "Dinka"
+    },
+    "Ewe": {
+        "code": "ee",
+        "name": "Ewe Wikipedia",
+        "title": "Ewe"
+    },
+    "Inupiaq": {
+        "code": "ik",
+        "name": "Inupiak Wikipedia",
+        "title": "Inupiaq"
+    },
+    "Livvi-Karelian": {
+        "code": "olo",
+        "name": "Livvi-Karelian Wikipedia",
+        "title": "Livvi-Karelian"
+    },
+    "Moksha": {
+        "code": "mdf",
+        "name": "Moksha Wikipedia",
+        "title": "Moksha"
+    },
+    "N'Ko": {
+        "code": "nqo",
+        "name": "N'Ko Wikipedia",
+        "title": "N'Ko"
+    },
+    "Tarantino": {
+        "code": "roa-tara",
+        "name": "Tarantino Wikipedia",
+        "title": "Tarantino"
+    },
+    "Tigrinya": {
+        "code": "ti",
+        "name": "Tigrinya Wikipedia",
+        "title": "Tigrinya"
+    },
+    "Luganda": {
+        "code": "lg",
+        "name": "Luganda Wikipedia",
+        "title": "Luganda"
+    },
+    "Nias": {
+        "code": "nia",
+        "name": "Nias Wikipedia",
+        "title": "Nias"
+    },
+    "Komi-Permyak": {
+        "code": "koi",
+        "name": "Komi-Permyak Wikipedia",
+        "title": "Komi-Permyak"
+    },
+    "Latgalian": {
+        "code": "ltg",
+        "name": "Latgalian Wikipedia",
+        "title": "Latgalian"
+    },
+    "Pontic Greek": {
+        "code": "pnt",
+        "name": "Pontic Wikipedia",
+        "title": "Pontic Greek"
+    },
+    "Tongan": {
+        "code": "to",
+        "name": "Tongan Wikipedia",
+        "title": "Tongan"
+    },
+    "Zhuang": {
+        "code": "za",
+        "name": "Zhuang Wikipedia",
+        "title": "Zhuang"
+    },
+    "Saraiki": {
+        "code": "skr",
+        "name": "Saraiki Wikipedia",
+        "title": "Saraiki"
+    },
+    "Kikuyu": {
+        "code": "ki",
+        "name": "Kikuyu Wikipedia",
+        "title": "Kikuyu"
+    },
+    "Saterland Frisian": {
+        "code": "stq",
+        "name": "Saterland Frisian Wikipedia",
+        "title": "Saterland Frisian"
+    },
+    "Sotho": {
+        "code": "st",
+        "name": "Sesotho Wikipedia",
+        "title": "Sotho"
+    },
+    "Tahitian": {
+        "code": "ty",
+        "name": "Tahitian Wikipedia",
+        "title": "Tahitian"
+    },
+    "Atikamekw": {
+        "code": "atj",
+        "name": "Atikamekw Wikipedia",
+        "title": "Atikamekw"
+    },
+    "Northern Sotho": {
+        "code": "nso",
+        "name": "Northern Sotho Wikipedia",
+        "title": "Northern Sotho"
+    },
+    "Pali": {
+        "code": "pi",
+        "name": "Pali Wikipedia",
+        "title": "Pali"
+    },
+    "Sranan Tongo": {
+        "code": "srn",
+        "name": "Sranan Tongo Wikipedia",
+        "title": "Sranan Tongo"
+    },
+    "Venda": {
+        "code": "ve",
+        "name": "Venda Wikipedia",
+        "title": "Venda"
+    },
+    "Guianan Creole": {
+        "code": "gcr",
+        "name": "Guianan Creole Wikipedia",
+        "title": "Guianan Creole"
+    },
+    "Palatine German": {
+        "code": "pfl",
+        "name": "Palatine German Wikipedia",
+        "title": "Palatine German"
+    },
+    "Sango": {
+        "code": "sg",
+        "name": "Sango Wikipedia",
+        "title": "Sango"
+    },
+    "Tumbuka": {
+        "code": "tum",
+        "name": "Tumbuku Wikipedia",
+        "title": "Tumbuka"
+    },
+    "Ndonga": {
+        "code": "ng (closed)",
+        "name": "Ndonga Wikipedia (closed)",
+        "title": "Ndonga"
+    },
+    "Northern Luri": {
+        "code": "lrc (locked)",
+        "name": "Northern Luri Wikipedia (locked)",
+        "title": "Northern Luri"
+    },
+    "Nuosu/Sichuan Yi": {
+        "code": "ii (closed)",
+        "name": "Sichuan Yi Wikipedia (closed)",
+        "title": "Nuosu/Sichuan Yi"
+    },
+    "Afar": {
+        "code": "aa (closed)",
+        "name": "Afar Wikipedia (closed)",
+        "title": "Afar"
+    },
+    "Choctaw": {
+        "code": "cho (closed)",
+        "name": "Choctaw Wikipedia (closed)",
+        "title": "Choctaw"
+    },
+    "Herero": {
+        "code": "hz (closed)",
+        "name": "Herero Wikipedia (closed)",
+        "title": "Herero"
+    },
+    "Hiri Motu": {
+        "code": "ho (closed)",
+        "name": "Hiri Motu Wikipedia (closed)",
+        "title": "Hiri Motu"
+    },
+    "Kanuri": {
+        "code": "kr (closed)",
+        "name": "Kanuri Wikipedia (closed)",
+        "title": "Kanuri"
+    },
+    "Kuanyama": {
+        "code": "kj (closed)",
+        "name": "Kuanyama Wikipedia (closed)",
+        "title": "Kuanyama"
+    },
+    "Marshallese": {
+        "code": "mh (closed)",
+        "name": "Marshallese Wikipedia (closed)",
+        "title": "Marshallese"
+    },
+    "Muscogee": {
+        "code": "mus (closed)",
+        "name": "Muscogee Wikipedia (closed)",
+        "title": "Muscogee"
+    },
+    "Moldovan": {
+        "code": "mo (deleted)",
+        "name": "Moldovan Wikipedia (deleted)",
+        "title": "Moldovan"
+    }
+}

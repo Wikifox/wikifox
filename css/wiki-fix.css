@@ -1,0 +1,90 @@
+.info-content tbody{
+    min-width: 300px;
+}
+
+.info-content tbody *{
+    color: var(--secondary-color);
+    font-size: 10px;
+    line-height: 12px;
+}
+
+.info-content .infobox-title{
+    display: none;
+}
+
+.info-content tr{
+    display: flex;
+    flex-direction: column;               
+    padding: 15px;            
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px dashed var(--hairline);
+    min-width: 100%;
+}
+
+.info-content td{
+    width: 100%;
+}
+
+.info-content tbody *{
+    text-align: left;
+    text-decoration: none;
+}
+
+.info-content tbody img{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.info-content sup, .info-content .penicon, .info-content .infobox-caption{
+    display: none;
+}
+
+.info-content ul{
+    list-style: none;
+    margin-block-start: 0;
+    padding: 0;
+    display: block !important;
+    font-size: 10px;
+    margin-top: 5px;
+}
+
+.info-content th *, .info-content th, .info-content .sidebar-list-title, .info-content .sidebar-list-title *{
+    font-size: 12px;
+    color: gray !important;
+    font-family: var(--serif) !important;
+    margin-bottom: 3px;
+}
+
+
+.info-content .infobox-data{
+    font-size: 10px;
+    margin-top: 5px
+}
+
+.info-content .infobox-data a{
+    color: var(--secondary-color);
+    text-decoration: underline;
+}
+
+.info-content .mbox-text-span{
+    font-size: 12px;
+}
+
+.info-content .country-name{
+    display: inline;
+}
+
+.info-content .ib-settlement-caption, .info-content .ib-settlement-caption-link{
+    margin-top: 5px;
+    font-size: 8px;
+}
+
+.info-content .mergedtoprow{
+    display: none;
+}
+
+.mw-editsection{
+    display: none !important;
+}

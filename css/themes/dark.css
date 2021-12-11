@@ -1,0 +1,25 @@
+:root{
+
+    /* Theme Colors */
+    --button: rgb(29, 29, 29);
+    --highlight: #0070f3;
+    --background: black;
+    --secondary-background: #0e0e0e;
+    --hairline: #3b3e3f;
+
+    /* Fonts*/
+    --primary-font: "Poppins", sans-serif;
+    --serif: 'Playfair Display', serif;;
+    --secondary-serif: 'Crimson Pro', serif;;
+
+    /* Font Colors */
+    --primary-color: whitesmoke;
+    --secondary-color: #bebebe;
+    --tertiary-color: rgb(211, 211, 211);
+
+    /* Misc */
+    --box-shadow-prime: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    --sidebar-width: 250px;
+
+    --semi-color: rgba(19, 19, 19, 0.5)
+}

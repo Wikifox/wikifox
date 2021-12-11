@@ -1,0 +1,130 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline-width: 0;
+    font-family: "poppins", sans-serif;
+    scroll-behavior: smooth;
+}
+
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.h-center{
+    display: flex;
+    justify-content: center;
+}
+
+.v-center{
+    display: flex;
+    align-items: center;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+    padding: 0 5px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: var(--primary-color);
+    border-radius: 99999px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: black;
+}
+
+.one-line{
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    display: -webkit-box;
+    -webkit-line-clamp: 1 !important;
+    line-clamp: 1 !important; 
+    -webkit-box-orient: vertical !important;
+}
+
+.overlay{
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.2);
+    z-index: 99999;
+    display: none;
+}
+
+.overlay-inner{
+    width: 500px !important;
+    height: 500px;
+    box-shadow: var(--box-shadow-prime);
+    background-color: var(--background);
+    border: 1px solid var(--hairline);
+    border-radius: 20px;
+}
+
+.ui-button{
+    background-color: var(--button);
+    color: white;
+    border-radius: 10px;
+    padding: 10px 15px;
+    cursor: pointer;
+    transition: 0.1s;
+}
+
+.ui-button:hover{
+    background-color: var(--highlight);
+}
+
+.ui-button h1{
+    font-size: 13px;
+    margin-left: 10px;
+}
+
+.progress-container {
+    --progressbar-height: 5px;
+
+    min-width: 100% !important;
+    min-height: var(--progressbar-height);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 99999;
+}
+  
+.progress-bar {
+    min-height: var(--progressbar-height);
+    background: var(--highlight);
+    width: 0%;
+    opacity: 0.9;
+}
+
+.progress-bar:hover{
+    transform: scaleY(3);
+    cursor: pointer;
+}
+
+.pa-t-70{
+    padding-top: 70px !important;
+}
+
+.relative-div{
+    position: relative;
+}
+
+.us{
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+}
