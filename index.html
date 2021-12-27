@@ -100,6 +100,7 @@
                 </nav>
             </div>
         </div>
+
         
     </div>
 
@@ -148,5 +149,16 @@
 <script src="js/app.ui.js"></script>
 
 <script src="js/index.js"></script>
+<script>
+    // Searchbar Outside Click Fix
+    $(document).click(function(event) { 
+    var $target = $(event.target);
+        var ct = $(".index-search-bar");
+        if(!$target.closest(ct).length && $(ct).is(":visible")) {
+            $(ct).removeClass("index-search-bar-active")
+            Search.blurSearchBar()
+        }        
+    });
+</script>
 
 </html>

@@ -19,11 +19,15 @@ const appUI = {
         infoboxOpen: $(".infobox-open"),
         infoboxClose: $(".infobox-close"),
         menuOpen: $(".menu-open"),
-        menuNavig: $(".header-navig-wrap")
+        menuNavig: $(".header-navig-wrap"),
+        indexSearchBar: $(".index-search-bar")
     },
 
     OverlayHide: function () {
         $('.action-hide').fadeOut();
+        try {
+            this.Elements.indexSearchBar.removeClass("index-search-bar-active");
+        } catch{}
     },
 
     hideLoader: function(){

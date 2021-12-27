@@ -59,7 +59,6 @@ const Search = {
         AppComponents.SearchBar.val(``);
         AppComponents.SearchBar.blur(``);
         AppComponents.githubBBtutton.show();
-        $(".hero-tagline").show();
     }
 }
 
@@ -131,13 +130,8 @@ const Options = {
 AppComponents.SearchBar.on("input", function () {
 
     var x = $(this).val();
-    $(".hero-tagline").hide();
+    $(".index-search-bar").addClass("index-search-bar-active");
 
-    if(x === ""){
-        Search.blurSearchBar()
-        document.title = "Wikifox - Wikipedia Reimagined"
-        return false;    
-    }
 
     try {  
         document.title = "Search Results for \"" + x +"\" - Wikifox"
@@ -146,10 +140,6 @@ AppComponents.SearchBar.on("input", function () {
             Search.renderSearchSugs(data);
     
             var resultDataArr = Object.values(data.data.results);
-            
-            if(resultDataArr.length === 0){
-                $(".hero-tagline").show();
-            }
 
             for (let i = 0; i < resultDataArr.length; i++) {
                 var title = resultDataArr[i].title,

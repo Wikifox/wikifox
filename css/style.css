@@ -549,8 +549,14 @@
     overflow: hidden;
     margin: 0 auto;
     z-index: 9999;
+    position: relative;
 }
 
+.index-search-bar-active{
+    position: fixed;
+    left: calc(50% - 250px);
+    top:20px;
+}
 
 .index-search-bar input{
     background: transparent;
