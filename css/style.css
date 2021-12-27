@@ -1,7 +1,3 @@
-@import url("../src/libs/google-fonts/fonts.css");
-@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css");
-
-
 /*   ___________________
     |                   | 
     |    [WIKI-PAGE]    |
@@ -909,4 +905,16 @@ a{
 .loading-overlay{
     display: flex;
     background-color: var(--background);
+}
+
+.index-footer{
+    bottom: 0;
+    position: fixed;
+    left: 0;
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+.product-hunt-image{
+    box-shadow: var(--box-shadow-prime);
 }

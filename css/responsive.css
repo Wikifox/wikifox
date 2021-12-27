@@ -63,6 +63,41 @@
     }
 }
 
+
+@media (max-width: 700px) {
+    .text-div{
+        padding: 60px !important;
+    }
+
+    .sentance-hero{
+        font-size: 30px !important;
+        line-height: 30px !important;
+    }
+
+    .text-content h1{
+        font-size: 25px;
+        margin-bottom: 15px;
+    }
+
+    .text-content p{
+        font-size: 13px;
+    }
+
+    .content{
+        width: 100%;
+        padding: 0 20px;
+        padding-top: 150px;
+    }
+
+    .hero-nav{
+        display: none;
+    }
+
+    .header-icon h1{
+        display: none;
+    }
+}
+
 @media (max-width:640px){
 
 

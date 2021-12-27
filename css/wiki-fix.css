@@ -4,8 +4,8 @@
 
 .info-content tbody *{
     color: var(--secondary-color);
-    font-size: 10px;
-    line-height: 12px;
+    font-size: 14px;
+    line-height: 18px;
 }
 
 .info-content .infobox-title{
@@ -51,7 +51,7 @@
 }
 
 .info-content th *, .info-content th, .info-content .sidebar-list-title, .info-content .sidebar-list-title *{
-    font-size: 12px;
+    font-size: 19px;
     color: gray !important;
     font-family: var(--serif) !important;
     margin-bottom: 3px;
@@ -59,13 +59,15 @@
 
 
 .info-content .infobox-data{
-    font-size: 10px;
+    font-size: 12px;
+    line-height: 14px;
     margin-top: 5px
 }
 
 .info-content .infobox-data a{
     color: var(--secondary-color);
     text-decoration: underline;
+    font-size: 12px;
 }
 
 .info-content .mbox-text-span{

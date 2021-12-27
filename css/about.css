@@ -1,0 +1,195 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.hero-header{
+    width: 100%;
+    padding: 10px;
+    position: fixed;
+    left: 0;
+    top:0;
+    background-color: rgba(0, 0, 0, 0.445);
+    backdrop-filter: blur(20px);
+    z-index: 99;
+    border: 1px solid #242426;
+}
+
+.hero-header-inner{
+    width: 90%;
+    padding: 10px 0;
+    justify-content: space-between;
+}
+
+.header-icon img{
+    width: 50px;
+}
+
+.header-icon h1{
+    color: white;
+    letter-spacing: -3px;
+    font-size: 30px;
+}
+
+.button-open{
+    background-color: #0070f3;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button-open:hover{
+    transform:scale(1.1);
+}
+
+.button-open h2{
+    font-size: 15px;
+    padding: 10px 20px;
+}
+
+.github-icon img{
+    width: 40px;
+    margin-left: 20px;
+    border-radius: 50%;
+    opacity: 0.5;
+}
+
+.github-icon img:hover{
+    opacity: 1;
+    cursor: pointer;
+}
+
+i,
+i::before {
+   color:  var(white);
+   display: flex !important;
+}
+
+.icon-lc{
+    margin-left: 5px;
+}
+
+.content{
+    width: 600px;
+    padding-top: 120px;
+}
+
+.banner-image img{
+    width: 100%;
+    border: 1px solid #242426;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+
+.banner-image:hover{
+    transform: scale(1.1);
+}
+
+.hero-nav a{
+    color: gray;
+    text-decoration: none;
+    letter-spacing: 0px;
+    margin: 0 5px;
+    font-size: 15px;
+}
+
+.hero-nav a:hover{
+    color: white;
+}
+
+.text-content h1{
+    margin: 20px 0;
+}
+
+.text-content{
+    margin-bottom: 50px;
+}
+.text-content p{
+    font-size: 15px;
+    color: rgb(131, 131, 131);
+}
+
+.tag{
+    background-color: #0070f3;
+    display: inline-flex;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+hr{
+    border: 1px solid #242426;
+}
+
+.powered-ul a{
+    color: white;
+    text-decoration: none;
+}
+
+.powered-ul a li{
+    color: rgb(131, 131, 131);
+    transition: 0ms;
+}
+
+.powered-ul a li:hover{
+    transition: 0s;
+    color: #0070f3;
+}
+
+.item-info{
+    justify-content: space-between;
+}
+
+.item-people{
+    width: 100%;
+    background-color: #19191a;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.item-people img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.item-ppl-content h1{
+    font-size: 15px;
+    line-height: 5px;
+}
+
+.wtf{
+    margin-left: 5px;
+    font-size: 16px;
+}
+
+.open-profile{
+    padding: 5px;
+    font-size: 16px;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 5px 10px;
+    margin-left: 10px;
+}
+
+.footer{
+    width: 100%;
+    justify-content: space-between;
+    padding: 20px 0px ;
+}
+
+.footer-inner{
+    width: 90%;
+    padding-bottom:15px;
+}
+
+.footer h1{
+    font-size: 15px;
+    display: inline-block;
+    color: gray;
+    letter-spacing: -1px;
+}

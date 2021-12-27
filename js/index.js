@@ -59,6 +59,7 @@ const Search = {
         AppComponents.SearchBar.val(``);
         AppComponents.SearchBar.blur(``);
         AppComponents.githubBBtutton.show();
+        $(".hero-tagline").show();
     }
 }
 
@@ -130,6 +131,7 @@ const Options = {
 AppComponents.SearchBar.on("input", function () {
 
     var x = $(this).val();
+    $(".hero-tagline").hide();
 
     if(x === ""){
         Search.blurSearchBar()
@@ -144,6 +146,11 @@ AppComponents.SearchBar.on("input", function () {
             Search.renderSearchSugs(data);
     
             var resultDataArr = Object.values(data.data.results);
+            
+            if(resultDataArr.length === 0){
+                $(".hero-tagline").show();
+            }
+
             for (let i = 0; i < resultDataArr.length; i++) {
                 var title = resultDataArr[i].title,
                     elem = $(`.image-${safeCss(title)}`);
