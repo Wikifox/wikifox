@@ -3,7 +3,7 @@
 # Introducing [Wikifox!](https://wikifox.ml/)
 Wikifox (beta) is a clean and simplified version of the real Wikipedia! This works with official Wikipedia, so nothing to worry about!. It has a good and clean user interface with Dark, Light and custom themes! Check it out : https://wikifox.ml/
 
-# Made with [wikifox.js](https://github.com/harry260/wikifox.js)
+# Made with [wikifox.js](https://github.com/harry260/wikifox.js) (modified)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harry260&repo=wikifox.js&theme=radical)](https://github.com/harry260/wikifox.js)
 
