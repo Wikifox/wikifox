@@ -1,3 +1,7 @@
 {
-    "svg.preview.background": "transparent"
+    "svg.preview.background": "transparent",
+    "cSpell.ignoreWords": [
+        "Infobox",
+        "Wikifox"
+    ]
 }
