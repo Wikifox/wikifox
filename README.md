@@ -5,6 +5,12 @@ Wikifox (beta) is a clean and simplified version of the real Wikipedia! This wor
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/78e53b07-785b-481c-a033-5bef6a642843/deploy-status)](https://app.netlify.com/sites/wikifox/deploys)
 
+# Few Screenshots
+
+|  <img src="src/assets/images/1.png"> | <img src="src/assets/images/2.png">  |
+|---|---|
+|  <img src="src/assets/images/3.png">  |  <img src="src/assets/images/4.png"> |
+
 # Made with [wikifox.js](https://github.com/harry260/wikifox.js) (modified)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harry260&repo=wikifox.js&theme=radical)](https://github.com/harry260/wikifox.js)
