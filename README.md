@@ -5,6 +5,23 @@ Wikifox (beta) is a clean and simplified version of the real Wikipedia! This wor
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/78e53b07-785b-481c-a033-5bef6a642843/deploy-status)](https://app.netlify.com/sites/wikifox/deploys)
 
+# Features
+- 👍 Super-awesome and Clean UI
+- 🔍 Search any articles Easily
+- 🔖 Bookmark Articles
+- ☀️ Dark/Light theme + Custom CSS themes!
+- 📃 Endless list of languages
+- 🔽 Download articles
+- ⏩ Sharing
+  - Share quotes (sentances)
+  - Share the Whole article
+- 📢Real aloud
+- 🦘 Quick Jump to headings
+- 🎲 Random Articles
+- 📱 Mobile Friendly
+- ℹ️ Infobox (beta)
+- 💫 And much more!
+
 # Few Screenshots
 
 |  <img src="src/assets/images/1.png"> | <img src="src/assets/images/2.png">  |
