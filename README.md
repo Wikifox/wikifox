@@ -39,3 +39,5 @@ Wikifox (beta) is a clean and simplified version of the real Wikipedia! This wor
 # Support
 
 <a href="https://www.buymeacoffee.com/harrytom" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a><br>
+
+# PROTIP: You can also customize the entire User Interface with the Custom CSS them option (`OPTIONS` > `Appearance` > `Custom CSS`)
