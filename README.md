@@ -5,6 +5,7 @@ Wikifox (beta) is a clean and simplified version of the real Wikipedia! This wor
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/78e53b07-785b-481c-a033-5bef6a642843/deploy-status)](https://app.netlify.com/sites/wikifox/deploys)
 
+[<img src="https://forum.reroll.in/uploads/default/original/1X/14cb1b4f9a5907dd89f6fe52595575df885dad93.png" width="150px">](https://discord.gg/wdDXnFz3bm)
 
 # 💫 Features
 - 👍 Super-awesome and Clean UI
