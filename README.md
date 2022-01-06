@@ -44,6 +44,7 @@ Wikifox (beta) is a clean and simplified version of the real Wikipedia! This wor
 <a href="https://www.producthunt.com/posts/wikifox?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-wikifox" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=323079&theme=dark&period=daily" alt="Wikifox - Wikipedia reimagined - clean, simplified, powerful | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 # 💪 Support
+Support this project by buying me a coffee and starring ⭐ this repo!
 
 <a href="https://www.buymeacoffee.com/harrytom" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a><br>
 
