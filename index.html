@@ -135,6 +135,29 @@
                     <option>Loading List..</option>
                 </select>
             </div>
+
+            <div class="option-item">
+                <h6>Keyboard Shortcuts</h6>
+                <span>Increase your productivity with Keyboard shortcuts!</span>
+                <div class="keyboard-btn">
+                    <div class="ui-button">
+                        <h1>View shortcuts</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="overlay center action-hide keyboard-overlay">
+        <div class="overlay-inner quick-jump-wrap action-x">
+            <header>
+                <h1>Keyboard Shortcuts</h1>
+            </header>
+            <div class="short-cuts-wrap">
+                <div class="short-cut-overflow-wrap">
+                    <table class="short-cuts-table"></table>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -151,6 +174,8 @@
 <script src="js/app.ui.js"></script>
 
 <script src="js/index.js"></script>
+<script src="src/libs/hotkeysjs/hotekeys.min.js"></script>
+<script src="js/keyboard.js"></script>
 <script>
     // Searchbar Outside Click Fix
     $(document).click(function(event) { 

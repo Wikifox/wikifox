@@ -23,6 +23,7 @@ const appUI = {
         indexSearchBar: $(".index-search-bar")
     },
 
+
     OverlayHide: function () {
         $('.action-hide').fadeOut();
         try {
@@ -150,6 +151,8 @@ const appUI = {
         this.setBookMarkState(title);
     },
 
+
+
     setBookMarkState: function (title) {
         var bookMark = localStorage.getItem("bookmarks") || JSON.stringify([]);
         var ParsedbookMark = JSON.parse(bookMark);
@@ -193,6 +196,10 @@ const appUI = {
         }
     },
 
+    OpenDownloadPopup: function () {
+        appUI.Elements.downloadOverlay.fadeIn().css('display', 'flex');
+    }
+
 }
 
 appUI.Elements.searchInput.on("input", (thisx) => {
@@ -212,6 +219,9 @@ $(document).keydown(function (e) {
     }
     else if (e.which === 27) {
         appUI.OverlayHide();
+    }
+    else if (e.which === 75) {
+        $(".keyboard-overlay").fadeIn().css("display","flex");
     }
 });
 
@@ -302,3 +312,4 @@ appUI.Elements.infoboxClose.on("click", function () {
 appUI.Elements.menuOpen.on("click", appUI.menuToggle)
 
 Theme.setTheme()
+

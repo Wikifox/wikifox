@@ -924,3 +924,37 @@ a{
 .product-hunt-image{
     box-shadow: var(--box-shadow-prime);
 }
+.short-cuts-wrap{
+    padding-top: 20px;
+}
+
+
+.key-code{
+    background-color: var(--secondary-background);
+    color: var(--secondary-color);
+    padding: 3px;
+    font-size: 15px;
+    height: 30px;
+    min-width: 30px;
+    display: flex;
+    font-weight: 900;
+    border-radius: 5px;
+}
+
+.key-title{
+    color: var(--secondary-color);
+    margin-left: 10px;
+    font-size: 13px;
+}
+
+.keyboard-shortcut-item{
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.keyboard-shortcut-item:hover .key-code{
+    color: var(--highlight);
+    transform: scale(1.1);
+}

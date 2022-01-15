@@ -26,8 +26,7 @@ var wikiPage = {
 
         wiki.getSummary(xtitle).then((data) => {
 
-            
-            console.log(data);
+
             var data = data.data;
 
             AppComponents.introWrap.html(`

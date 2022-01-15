@@ -48,7 +48,7 @@
             <div class="header-inner v-center">
                 <div class="header-input v-center">
                     <div class="header-logo center">
-                        <a href="/">
+                        <a class="goHomeBtn" href="/">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 206 215" class="svg-logo"
                                 fill-rule="evenodd" clip-rule="evenodd" shape-rendering="geometricPrecision"
                                 text-rendering="geometricPrecision" image-rendering="optimizeQuality">
@@ -139,7 +139,19 @@
                 </div>
             </div>
         </div>
-
+        <div class="keyboard-btn" style="display: none;"></div>
+        <div class="overlay center action-hide keyboard-overlay">
+            <div class="overlay-inner quick-jump-wrap action-x">
+                <header>
+                    <h1>Keyboard Shortcuts</h1>
+                </header>
+                <div class="short-cuts-wrap">
+                    <div class="short-cut-overflow-wrap">
+                        <table class="short-cuts-table"></table>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="overlay center overlay-share action-hide">
             <div class="overlay-inner center action-x">
                 <div class="center search-preview">
@@ -251,6 +263,7 @@
 <script src="src/libs/wikifox/wikifox.js"></script>
 <script src="js/share.js"></script>
 <script src="js/themes.js"></script>
+<script src="src/libs/hotkeysjs/hotekeys.min.js"></script>
 
 <!--ShareTHis-->
 
@@ -264,5 +277,6 @@
 <!-- Scripts -->
 <script src="js/app.js"></script>
 <script src="js/app.ui.js"></script>
+<script src="js/keyboard.js"></script>
 
 </html>

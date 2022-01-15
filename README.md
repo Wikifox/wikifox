@@ -7,6 +7,9 @@ Wikifox (beta) is a clean and simplified version of the real Wikipedia! This wor
 
 [<img src="https://forum.reroll.in/uploads/default/original/1X/14cb1b4f9a5907dd89f6fe52595575df885dad93.png" width="150px">](https://discord.gg/wdDXnFz3bm)
 
+# What's New
+- Added Keyboard shortcuts. Press `k` or got to `options` to see what are the new shortcuts!
+
 # 💫 Features
 - 👍 Super-awesome and Clean UI
 - 🔍 Search any articles Easily
@@ -20,9 +23,16 @@ Wikifox (beta) is a clean and simplified version of the real Wikipedia! This wor
 - 📢Real aloud
 - 🦘 Quick Jump to headings
 - 🎲 Random Articles
+- Keyboard Shortcuts
 - 📱 Mobile Friendly
 - ℹ️ Infobox (beta)
 - 💫 And much more!
+
+# 🔔 Upcoming Features
+
+- More keyboard shortcuts
+- Comments
+- Reactions
 
 # ✂️ Few Screenshots
 
