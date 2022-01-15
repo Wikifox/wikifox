@@ -23,7 +23,7 @@ Wikifox (beta) is a clean and simplified version of the real Wikipedia! This wor
 - 📢Real aloud
 - 🦘 Quick Jump to headings
 - 🎲 Random Articles
-- Keyboard Shortcuts
+- ⌨️ Keyboard Shortcuts
 - 📱 Mobile Friendly
 - ℹ️ Infobox (beta)
 - 💫 And much more!
@@ -47,6 +47,7 @@ Wikifox (beta) is a clean and simplified version of the real Wikipedia! This wor
 - 🔤 [Google Fonts](https://fonts.google.com/)
 - 🅱️ [Bootstrap Icons](https://icons.getbootstrap.com/)
 - 🌍 [Official Wikipedia Api](https://wikipedia.org/)
+- ⌨️ [hotekeys-js](https://github.com/jaywcjlove/hotkeys)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harry260&repo=wikifox.js&theme=radical)](https://github.com/harry260/wikifox.js)
 
