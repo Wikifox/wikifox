@@ -11,6 +11,7 @@ Wikifox (beta) is a clean and simplified version of the real Wikipedia! This wor
 - Added Keyboard shortcuts. Press `k` or got to `options` to see what are the new shortcuts!
 
 # 💫 Features
+- 🍕 Ad-free
 - 👍 Super-awesome and Clean UI
 - 🔍 Search any articles Easily
 - 🔖 Bookmark Articles
