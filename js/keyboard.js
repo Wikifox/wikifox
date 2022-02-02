@@ -57,10 +57,19 @@ const keyPairs = {
 
 $(document).ready(function() {
 
-    hotkeys('b,s,p,w,q,e,d,h', function (event, handler){
+    var listenKeys = Object.keys(keyPairs.keys).join(",")
+    hotkeys(listenKeys, function (event, handler){
 
         if(keyPairs.links.includes(handler.key)){
-            window.open($(keyPairs.keys[handler.key].selector).attr("href"))
+            var inputFocused = $("input[type=text]").is(":focus");
+
+            if(!inputFocused){
+                var link = $(keyPairs.keys[handler.key].selector).attr("href")
+                if(link){
+                    window.open(link)
+                }
+            }
+
             return; 
         }
 

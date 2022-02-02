@@ -28,10 +28,10 @@ const appUI = {
         $('.action-hide').fadeOut();
         try {
             this.Elements.indexSearchBar.removeClass("index-search-bar-active");
-        } catch{}
+        } catch { }
     },
 
-    hideLoader: function(){
+    hideLoader: function () {
         $(".loading-overlay").fadeOut();
     },
 
@@ -100,7 +100,7 @@ const appUI = {
             links.each(function () {
                 var href = $(this).attr("href");
 
-                if (href.startsWith("/wiki") ) {
+                if (href.startsWith("/wiki")) {
                     var articleTitle = href.split("/");
                     $(this).attr("href", "?wiki=" + articleTitle[articleTitle.length - 1]);
                 }
@@ -140,11 +140,11 @@ const appUI = {
         var bookMark = localStorage.getItem("bookmarks") || JSON.stringify([])
         var ParsedbookMark = JSON.parse(bookMark);
 
-        if(ParsedbookMark.includes(title)){
+        if (ParsedbookMark.includes(title)) {
             ParsedbookMark.splice(ParsedbookMark.indexOf(title), 1);
         }
-        else{
-            ParsedbookMark.push(title);       
+        else {
+            ParsedbookMark.push(title);
         }
 
         localStorage.setItem("bookmarks", JSON.stringify(ParsedbookMark));
@@ -160,14 +160,14 @@ const appUI = {
 
         var bookMarkBtn = this.Elements.bookMarkBtn;
 
-        if(ParsedbookMark.includes(title)){
-            
+        if (ParsedbookMark.includes(title)) {
+
             window.wiki.bookMarkArticle = true;
             bookMarkBtn.find("i").removeClass("bi-heart").addClass("bi-heart-fill");
             bookMarkBtn.attr("title", "Remove from Bookmarks");
 
         }
-        else{
+        else {
             window.wiki.bookMarkArticle = false;
             bookMarkBtn.find("i").removeClass("bi-heart-fill").addClass("bi-heart");
             bookMarkBtn.attr("title", "Add to Bookmarks");
@@ -176,23 +176,23 @@ const appUI = {
 
     menuToggle: function () {
 
-        var menuBtn = appUI.Elements.menuOpen,  menuStatus = menuBtn.attr("open_s"), menuNavig = appUI.Elements.menuNavig, logotext = $(".logo-text");
+        var menuBtn = appUI.Elements.menuOpen, menuStatus = menuBtn.attr("open_s"), menuNavig = appUI.Elements.menuNavig, logotext = $(".logo-text");
 
-        if(menuStatus === "true"){
+        if (menuStatus === "true") {
 
             logotext.fadeIn();
             menuBtn.attr("open_s", "false");
             menuNavig.fadeOut();
-            menuBtn.find("i").removeClass("bi-x").addClass("bi-list");            
-            
+            menuBtn.find("i").removeClass("bi-x").addClass("bi-list");
+
         }
-        else{
+        else {
 
             logotext.fadeOut()
             menuBtn.attr("open_s", "true");
             menuNavig.fadeIn().css("display", "flex");
             menuBtn.find("i").removeClass("bi-list").addClass("bi-x");
-            
+
         }
     },
 
@@ -214,14 +214,18 @@ appUI.Elements.searchInput.on("input", (thisx) => {
 });
 
 $(document).keydown(function (e) {
-    if (e.which === 81 && e.ctrlKey) {
-        appUI.QuickSearch()
-    }
-    else if (e.which === 27) {
-        appUI.OverlayHide();
-    }
-    else if (e.which === 75) {
-        $(".keyboard-overlay").fadeIn().css("display","flex");
+    var inputFocused = $("input[type=text]").is(":focus");
+
+    if (!inputFocused) {
+        if (e.which === 81 && e.ctrlKey) {
+            appUI.QuickSearch()
+        }
+        else if (e.which === 27) {
+            appUI.OverlayHide();
+        }
+        else if (e.which === 75) {
+            $(".keyboard-overlay").fadeIn().css("display", "flex");
+        }
     }
 });
 
@@ -229,7 +233,7 @@ appUI.Elements.downloadGo.on("click", function () {
     wikiPage.getPDFfile()
 })
 
-appUI.Elements.downloadButton.on("click",appUI.DownloadPopup )
+appUI.Elements.downloadButton.on("click", appUI.DownloadPopup)
 
 appUI.Elements.contentWrap.scroll(function () {
 
