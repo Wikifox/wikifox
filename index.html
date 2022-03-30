@@ -1,201 +1,277 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link
+      rel="stylesheet"
+      href="css/themes/light.css"
+      id="themefile"
+      type="text/css"
+    />
+    <link rel="stylesheet" href="css/app.ui.css" type="text/css" />
+    <link rel="stylesheet" href="css/style.css" type="text/css" />
+    <link rel="stylesheet" href="css/responsive.css" type="text/css" />
 
-    <link rel="stylesheet" href="css/themes/light.css" id="themefile" type="text/css">
-    <link rel="stylesheet" href="css/app.ui.css" type="text/css">
-    <link rel="stylesheet" href="css/style.css" type="text/css">
-    <link rel="stylesheet" href="css/responsive.css" type="text/css">
-
-    <link rel="shortcut icon" href="src/assets/icons/icon.png" type="image/x-icon">
+    <link
+      rel="shortcut icon"
+      href="src/assets/icons/icon.png"
+      type="image/x-icon"
+    />
 
     <title>Wikifox - Wikipedia Re-imagined</title>
-    <meta name="title" content="Wikifox - Wikipedia Re-imagined">
-    <meta name="description" content="Wikifox is a clean and simplified version of the real Wikipedia!">
-    <meta name="keywords" content="Wikipedia, Wikifox, Wiki, Clean, UI, Harry Tom, Harry260, github.com/harry260">
-    <meta name="author" content="Harry Tom">
-    
+    <meta name="title" content="Wikifox - Wikipedia Re-imagined" />
+    <meta
+      name="description"
+      content="Wikifox is a clean and simplified version of the real Wikipedia!"
+    />
+    <meta
+      name="keywords"
+      content="Wikipedia, Wikifox, Wiki, Clean, UI, Harry Tom, Harry260, github.com/harry260"
+    />
+    <meta name="author" content="Harry Tom" />
+
     <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Wikifox - Wikipedia Re-imagined">
-    <meta property="og:description" content="Wikifox is a clean and simplified version of the real Wikipedia!">
-    <meta property="og:image" content="src\assets\images\banner.png">
-    
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Wikifox - Wikipedia Re-imagined" />
+    <meta
+      property="og:description"
+      content="Wikifox is a clean and simplified version of the real Wikipedia!"
+    />
+    <meta property="og:image" content="src\assets\images\banner.png" />
+
     <!-- Twitter -->
-    <meta property="twitter:card" content="src\assets\images\banner.png">
-    <meta property="twitter:title" content="Wikifox - Wikipedia Re-imagined">
-    <meta property="twitter:description" content="Wikifox is a clean and simplified version of the real Wikipedia!">
-    <meta property="twitter:image" content="src\assets\images\banner.png">
+    <meta property="twitter:card" content="src\assets\images\banner.png" />
+    <meta property="twitter:title" content="Wikifox - Wikipedia Re-imagined" />
+    <meta
+      property="twitter:description"
+      content="Wikifox is a clean and simplified version of the real Wikipedia!"
+    />
+    <meta property="twitter:image" content="src\assets\images\banner.png" />
 
     <!--Buy Me A Coffee Please-->
-    <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="harrytom" data-description="Support me on Buy me a coffee!" data-message="Thank you for checking out Wikifox. Support me with few coffees!" data-color="#FFDD00" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
-</head>
+    <script
+      data-name="BMC-Widget"
+      data-cfasync="false"
+      src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
+      data-id="harrytom"
+      data-description="Support me on Buy me a coffee!"
+      data-message="Thank you for checking out Wikifox. Support me with few coffees!"
+      data-color="#FFDD00"
+      data-position="Right"
+      data-x_margin="18"
+      data-y_margin="18"
+    ></script>
+  </head>
 
-<body class="index-body us">
+  <body class="index-body us">
     <div class="index-header center">
-        <div class="index-header-inner v-center">
-            <div class="logo-text v-center">
-                <h1>Wikifox</h1>
-            </div>
-            <nav class="index-header-nav">
-                <a href="about.html">about</a>
-                <a class="random-open">random</a>
-                <a target="_blank" href="https://github.com/harry260/wikifox">github</a>
-            </nav>
-            <div class="action-x v-center">
-                <div class="bookmarks-btn center action-x">
-                    <i class="bi-bookmark-fill"></i>
-                </div>
-                <div class="option-changer options-btn option-pop-button v-center">
-                    <i class="bi-gear"></i>
-                    <h1 class="lang-text">options</h1>
-                </div>
-            </div>
+      <div class="index-header-inner v-center">
+        <div class="logo-text v-center">
+          <h1>Wikifox</h1>
         </div>
+        <nav class="index-header-nav">
+          <a href="about.html">about</a>
+          <a class="random-open">random</a>
+          <a target="_blank" href="https://github.com/harry260/wikifox"
+            >github</a
+          >
+        </nav>
+        <div class="action-x v-center">
+          <div class="bookmarks-btn center action-x">
+            <i class="bi-bookmark-fill"></i>
+          </div>
+          <div class="option-changer options-btn option-pop-button v-center">
+            <i class="bi-gear"></i>
+            <h1 class="lang-text">options</h1>
+          </div>
+        </div>
+      </div>
     </div>
     <div class="bookmarks-overlay overlay action-hide">
-        <div class="bookmarks-bar action-x">
-            <header class="bookmarks-header">
-                <h1 class="options-title">Bookmarks</h1>
-                <p>All the items you bookmarked while you were reading appear here!</p>
-            </header>
-            <div class="bookmarks-list">
-                <div class="bookmarnk-404">
-                    <img src="src/assets/images/not-found.png">
-                </div>
-            </div>
+      <div class="bookmarks-bar action-x">
+        <header class="bookmarks-header">
+          <h1 class="options-title">Bookmarks</h1>
+          <p>
+            All the items you bookmarked while you were reading appear here!
+          </p>
+        </header>
+        <div class="bookmarks-list">
+          <div class="bookmarnk-404">
+            <img src="src/assets/images/not-found.png" />
+          </div>
         </div>
+      </div>
     </div>
     <div class="index-wrapper center">
-        <div class="index-search-wrap">
-            <div class="relative-div">
-                <div class="svg-overhide h-center">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 206 215" class="svg-logo" fill-rule="evenodd"
-                        clip-rule="evenodd" shape-rendering="geometricPrecision" text-rendering="geometricPrecision"
-                        image-rendering="optimizeQuality">
-                        <path class="prefix__fil0"
-                            d="M177 5v24l-12-6-6-6c5-4 17-19 18-12zM89 109v27c0 12 15 14 18 1v-20c-4-1-12-5-18-8z" />
-                        <path class="prefix__fil0"
-                            d="M200 45c-8-5-37-19-37-19-8-9-17-17-25-26-4-4-7 22-2 34-4 7-9 14-13 21-20 0-47 7-62 21-74-4-90 119 5 136 57 11 124-13 113-80-1-8-38-34-38-34s-23 9-28 19c-8 14 11 54-37 53-38-1-61-57-8-72-1 13 0 25 0 38 0 12 15 14 17 1 1-10 0-22 1-33 0 0 22 13 23 10 4-7 27-18 33-20 5 4 9 7 14 10 14 9 7-19 15-34 7-11 52-8 29-25zm-30 6c-4 1-18 7-20 12 3-4 16-7 20-7v-5zm-1-12c-2 0-3 1-3 3s1 4 3 4 4-2 4-4-2-3-4-3z" />
-                    </svg>
-                </div>
-                <div class="index-search-bar action-x">
-                    <div class="v-center search-bar">
-                        <input type="text" class="search-index-input" placeholder="Search Wikifox!">
-                        <i class="bi-dice-5-fill random-article-dice random-open"></i>
-                    </div>
+      <div class="index-search-wrap">
+        <div class="relative-div">
+          <div class="svg-overhide h-center">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 206 215"
+              class="svg-logo"
+              fill-rule="evenodd"
+              clip-rule="evenodd"
+              shape-rendering="geometricPrecision"
+              text-rendering="geometricPrecision"
+              image-rendering="optimizeQuality"
+            >
+              <path
+                class="prefix__fil0"
+                d="M177 5v24l-12-6-6-6c5-4 17-19 18-12zM89 109v27c0 12 15 14 18 1v-20c-4-1-12-5-18-8z"
+              />
+              <path
+                class="prefix__fil0"
+                d="M200 45c-8-5-37-19-37-19-8-9-17-17-25-26-4-4-7 22-2 34-4 7-9 14-13 21-20 0-47 7-62 21-74-4-90 119 5 136 57 11 124-13 113-80-1-8-38-34-38-34s-23 9-28 19c-8 14 11 54-37 53-38-1-61-57-8-72-1 13 0 25 0 38 0 12 15 14 17 1 1-10 0-22 1-33 0 0 22 13 23 10 4-7 27-18 33-20 5 4 9 7 14 10 14 9 7-19 15-34 7-11 52-8 29-25zm-30 6c-4 1-18 7-20 12 3-4 16-7 20-7v-5zm-1-12c-2 0-3 1-3 3s1 4 3 4 4-2 4-4-2-3-4-3z"
+              />
+            </svg>
+          </div>
+          <div class="index-search-bar action-x">
+            <div class="v-center search-bar">
+              <input
+                type="text"
+                class="search-index-input"
+                placeholder="Search Wikifox!"
+              />
+              <i class="bi-dice-5-fill random-article-dice random-open"></i>
+            </div>
 
-                    <div class="index-sug-wrap"></div>
-                </div>
-            </div>
-            
-            <div class="hero-tagline">
-                <div class="hero-bottom h-center">
-                    <h2 class="hero-abs">Wikifox is a clean and simplified version of the real Wikipedia!</h2>
-                </div>
-                <nav class="bottom-nav center">
-                    <a href="about.html">about</a>
-                </nav>
-            </div>
+            <div class="index-sug-wrap"></div>
+          </div>
         </div>
 
-        
+        <div class="hero-tagline">
+          <div class="hero-bottom h-center">
+            <h2 class="hero-abs">
+              Wikifox is a clean and simplified version of the real Wikipedia!
+            </h2>
+          </div>
+          <nav class="bottom-nav center">
+            <a href="about.html">about</a>
+          </nav>
+        </div>
+      </div>
     </div>
 
     <div class="overlay options-overlay center action-hide">
-        <div class="overlay-inner options-inner action-x">
-            <header class="options-header">
-                <h1 class="options-title">Options</h1>
-            </header>
-            <div class="option-item">
-                <h6>Appearance</h6>
-                <span>Choose your preferred Theme, or create your own css theme! Pro-tip: Dark theme make people
-                    invincible!</span>
-                <select class="theme-list">
-                    <option value="light">Light</option>
-                    <option value="dark">Dark</option>
-                    <option value="auto">Device</option>
-                    <option value="css">Custom CSS</option>
-                </select>
-                <div class="custom-css-wrap">
-                    <input type="text" class="css-file-ext" placeholder="Remote css file url">
-                    <a target="_blank" href="https://github.com/Harry260/wikifox/blob/main/custom-style.md">Learn how to create
-                        your own css theme!
-                    </a>
-                </div>
-            </div>
-            <div class="option-item">
-                <h6>Language</h6>
-                <span>Choose your wikipedia from the endless list!</span>
-                <select class="lang-list">
-                    <option>Loading List..</option>
-                </select>
-            </div>
-
-            <div class="option-item">
-                <h6>Keyboard Shortcuts</h6>
-                <span>Increase your productivity with Keyboard shortcuts!</span>
-                <div class="keyboard-btn">
-                    <div class="ui-button">
-                        <h1>View shortcuts</h1>
-                    </div>
-                </div>
-            </div>
+      <div class="overlay-inner options-inner action-x">
+        <header class="options-header">
+          <h1 class="options-title">Options</h1>
+        </header>
+        <div class="option-item">
+          <h6>Appearance</h6>
+          <span
+            >Choose your preferred Theme, or create your own css theme! Pro-tip:
+            Dark theme make people invincible!</span
+          >
+          <select class="theme-list">
+            <option value="light">Light</option>
+            <option value="dark">Dark</option>
+            <option value="auto">Device</option>
+            <option value="css">Custom CSS</option>
+          </select>
+          <div class="custom-css-wrap">
+            <input
+              type="text"
+              class="css-file-ext"
+              placeholder="Remote css file url"
+            />
+            <a
+              target="_blank"
+              href="https://github.com/Harry260/wikifox/blob/main/custom-style.md"
+              >Learn how to create your own css theme!
+            </a>
+          </div>
         </div>
+        <div class="option-item">
+          <h6>Language</h6>
+          <span>Choose your wikipedia from the endless list!</span>
+          <select class="lang-list">
+            <option>Loading List..</option>
+          </select>
+        </div>
+
+        <div class="option-item">
+          <h6>Keyboard Shortcuts</h6>
+          <span>Increase your productivity with Keyboard shortcuts!</span>
+          <div class="keyboard-btn">
+            <div class="ui-button">
+              <h1>View shortcuts</h1>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
 
     <div class="overlay center action-hide keyboard-overlay">
-        <div class="overlay-inner quick-jump-wrap action-x">
-            <header>
-                <h1>Keyboard Shortcuts</h1>
-            </header>
-            <div class="short-cuts-wrap">
-                <div class="short-cut-overflow-wrap">
-                    <table class="short-cuts-table"></table>
-                </div>
-            </div>
+      <div class="overlay-inner quick-jump-wrap action-x">
+        <header>
+          <h1>Keyboard Shortcuts</h1>
+        </header>
+        <div class="short-cuts-wrap">
+          <div class="short-cut-overflow-wrap">
+            <table class="short-cuts-table"></table>
+          </div>
         </div>
+      </div>
     </div>
 
     <div class="index-footer footer center">
-        <div class="f-icons">
-            <a href="https://www.producthunt.com/posts/wikifox?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-wikifox" target="_blank"><img class="product-hunt-image" src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=323079&theme=dark&period=daily" alt="Wikifox - Wikipedia re-imagine - clean, simplified, powerful | Product Hunt" style="width: 250px; height: 54px;" width="150" height="54" /></a>
-        </div>
+      <div class="f-icons">
+        <a
+          href="https://www.producthunt.com/posts/wikifox?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-wikifox"
+          target="_blank"
+          ><img
+            class="product-hunt-image"
+            src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=323079&theme=dark&period=daily"
+            alt="Wikifox - Wikipedia re-imagine - clean, simplified, powerful | Product Hunt"
+            style="width: 250px; height: 54px"
+            width="150"
+            height="54"
+        /></a>
+      </div>
     </div>
-    
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-NN999GDD2V"></script>
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-NN999GDD2V"
+    ></script>
     <script>
       window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
 
-      gtag('config', 'G-NN999GDD2V');
+      gtag("config", "G-NN999GDD2V");
     </script>
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1465251087992261"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+  <script src="js/themes.js"></script>
+  <script src="src/libs/jquery/jquery.js"></script>
+  <script src="src/libs/wikifox/wikifox.js"></script>
+  <script src="js/app.ui.js"></script>
 
-</body>
-<script src="js/themes.js"></script>
-<script src="src/libs/jquery/jquery.js"></script>
-<script src="src/libs/wikifox/wikifox.js"></script>
-<script src="js/app.ui.js"></script>
-
-<script src="js/index.js"></script>
-<script src="src/libs/hotkeysjs/hotekeys.min.js"></script>
-<script src="js/keyboard.js"></script>
-<script>
+  <script src="js/index.js"></script>
+  <script src="src/libs/hotkeysjs/hotekeys.min.js"></script>
+  <script src="js/keyboard.js"></script>
+  <script>
     // Searchbar Outside Click Fix
-    $(document).click(function(event) { 
-    var $target = $(event.target);
-        var ct = $(".index-search-bar");
-        if(!$target.closest(ct).length && $(ct).is(":visible")) {
-            $(ct).removeClass("index-search-bar-active")
-            Search.blurSearchBar()
-        }        
+    $(document).click(function (event) {
+      var $target = $(event.target);
+      var ct = $(".index-search-bar");
+      if (!$target.closest(ct).length && $(ct).is(":visible")) {
+        $(ct).removeClass("index-search-bar-active");
+        Search.blurSearchBar();
+      }
     });
-</script>
-
+  </script>
 </html>
