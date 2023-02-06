@@ -1,8 +1,8 @@
 <img src="src/assets/icons/favicon-violet.svg" width="50px">
 
-# 🦊 Introducing [Wikifox!](https://wikifox.ml/) ![Beta](https://img.shields.io/badge/-BETA-blue)
+# 🦊 Introducing [Wikifox!](https://wikifox.netlify.app/) ![Beta](https://img.shields.io/badge/-BETA-blue)
 
-Wikifox (beta) is a clean and simplified version of the real Wikipedia! This works with official Wikipedia, so nothing to worry about!. It has a good and clean user interface with Dark, Light and custom themes! Check it out : https://wikifox.ml/
+Wikifox (beta) is a clean and simplified version of the real Wikipedia! This works with official Wikipedia, so nothing to worry about!. It has a good and clean user interface with Dark, Light and custom themes! Check it out : https://wikifox.netlify.app/
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/78e53b07-785b-481c-a033-5bef6a642843/deploy-status)](https://app.netlify.com/sites/wikifox/deploys)
 
@@ -24,7 +24,7 @@ Wikifox (beta) is a clean and simplified version of the real Wikipedia! This wor
 - ⏩ Sharing
   - Share quotes (sentances)
   - Share the Whole article
-- 📢Real aloud
+- 📢 Read aloud
 - 🦘 Quick Jump to headings
 - 🎲 Random Articles
 - ⌨️ Keyboard Shortcuts
@@ -71,5 +71,5 @@ Support this project by buying me a coffee and starring ⭐ this repo!
 
 <a href="https://www.buymeacoffee.com/harrytom" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a><br>
 
-| PROTIP: You can also customize the entire User Interface with the Custom CSS them option (`OPTIONS` > `Appearance` > `Custom CSS`) |
+| PROTIP: You can also customize the entire User Interface with the Custom CSS theme option (`OPTIONS` > `Appearance` > `Custom CSS`) |
 | ---------------------------------------------------------------------------------------------------------------------------------- |
